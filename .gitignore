@@ -1,0 +1,5 @@
+*.babylon
+*.babylon.manifest
+*.blend1
+*.blend2
+*.log
